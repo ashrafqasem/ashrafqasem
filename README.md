@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 
 
-### Hi there, I'm Ashraf - aka [Ash][website] ðŸ‘‹
+## I'm Ashraf Qasem, a Full Stack .NET Developer
 
 [![Website](https://ashrafqasem.github.io/Portfolio/)](https://ashrafqasem.github.io/Portfolio/)
 [![Twitter Follow](https://img.shields)](https://twitter.com/intent/follow?original_)
 
-## I'm a Full Stack .NET Developer with over 5 years’ experience and Master’s Degree in Computer Engineering. I have been building applications websites for years, which bring companies ideas to life. I help convert a vision and an idea into meaningful and useful software products.
+### I'm a Full Stack .NET Developer with over 5 years’ experience and Master’s Degree in Computer Engineering. I have been building applications websites for years, which bring companies ideas to life. I help convert a vision and an idea into meaningful and useful software products.
 
 - ðŸ”­ I just launched my first course: [Become A VS Code SuperHero!][course]!
 - ðŸŒ± Iâ€™m currently learning everything ðŸ¤£
