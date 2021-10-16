@@ -16,15 +16,13 @@ Here are some ideas to get you started:
 -->
 
 
-## I'm Ashraf Qasem, a Full Stack .NET Developer
-
 [![Website](https://ashrafqasem.github.io/Portfolio/)](https://ashrafqasem.github.io/Portfolio/)
 
-#### - I'm a Full Stack .NET Developer with over 5 years’ experience and Master’s Degree in Computer Engineering. I have been building applications websites for years, which bring companies ideas to life. I help convert a vision and an idea into meaningful and useful software products.
+## Who am i?, I'm Ashraf Qasem, a Full Stack .NET Developer:
 
-#### - Innovative OOP programmer offering experience in building N-tier web application from concept through delivery, including Front-End, Back-End, database design and the deployment to the web host.
-
-#### - Excellent troubleshooting skills able to analyze code and engineer well-researched, scalable solutions.
+- I'm a Full Stack .NET Developer with over 5 years’ experience and Master’s Degree in Computer Engineering. I have been building applications websites for years, which bring companies ideas to life. I help convert a vision and an idea into meaningful and useful software products.
+- Innovative OOP programmer offering experience in building N-tier web application from concept through delivery, including Front-End, Back-End, database design and the deployment to the web host.
+- Excellent troubleshooting skills able to analyze code and engineer well-researched, scalable solutions.
 
 ### Connect with me:
 
