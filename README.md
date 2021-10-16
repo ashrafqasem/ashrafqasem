@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 
 
-### Hi there, I'm AShraf - aka [Ash][website] ðŸ‘‹
+### Hi there, I'm Ashraf - aka [Ash][website] ðŸ‘‹
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Website](https://ashrafqasem.github.io/Portfolio/)](https://ashrafqasem.github.io/Portfolio/)
+[![Twitter Follow](https://img.shields)](https://twitter.com/intent/follow?original_)
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Full Stack .NET Developer with over 5 years’ experience and Master’s Degree in Computer Engineering. I have been building applications websites for years, which bring companies ideas to life. I help convert a vision and an idea into meaningful and useful software products.
 
 - ðŸ”­ I just launched my first course: [Become A VS Code SuperHero!][course]!
 - ðŸŒ± Iâ€™m currently learning everything ðŸ¤£
