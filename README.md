@@ -22,12 +22,6 @@ Here are some ideas to get you started:
 
 ### I'm a Full Stack .NET Developer with over 5 years’ experience and Master’s Degree in Computer Engineering. I have been building applications websites for years, which bring companies ideas to life. I help convert a vision and an idea into meaningful and useful software products.
 
-- ðŸ”­ I just launched my first course: [Become A VS Code SuperHero!][course]!
-- ðŸŒ± Iâ€™m currently learning everything ðŸ¤£
-- ðŸ‘¯ Iâ€™m looking to collaborate with other content creators
-- ðŸ¥… 2020 Goals: Contribute more to Open Source projects
-- âš¡ Fun fact: I love to draw and play guitar / drums
-
 ### Connect with me:
 
 [<img align="left" alt="https://github.com/ashrafqasem/Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
