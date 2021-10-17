@@ -38,6 +38,14 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
+
+
+
+[<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />][website]
+
+
+
+
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
@@ -72,6 +80,6 @@ Here are some ideas to get you started:
 <!-- <details> -->
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="AshrafQasem's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AshrafQasem&show_icons=true&hide_border=false" />
+  <img align="left" alt="AshrafQasem's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AshrafQasem&show_icons=true&hide_border=true" />
 
 <!-- </details> -->
