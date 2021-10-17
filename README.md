@@ -50,12 +50,12 @@ Here are some ideas to get you started:
 [<img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
 [<img align="left" alt="Bootstrap" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />][website]
 [<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
-[<img align="left" alt="JQuery" width="90px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />][website]
+[<img align="left" alt="JQuery" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />][website]
 [<img align="left" alt="Ajax" width="50px" src="https://raw.githubusercontent.com/github/explore/8be26d91eb231fec0b8856359979ac09f27173fd/topics/ajax/ajax.png" />][website]
 [<img align="left" alt="DataTables" width="50px" src="https://avatars.githubusercontent.com/u/278219?s=200&v=4" />][website]
 
 
-<br/><br/><br/>
+<br/><br/><br/><br/>
 
 [<img align="left" alt="Azure" width="50px" src="https://avatars.githubusercontent.com/u/6844498?s=200&v=4" />][website]
 [<img align="left" alt="AppHarbor" width="50px" src="https://avatars.githubusercontent.com/u/482897?s=200&v=4" />][website]
@@ -83,10 +83,15 @@ Here are some ideas to get you started:
 [reactplaylist]:  -->
 
 
-<br/><br/><br/>
 
-<!-- <details> -->
-  <summary>:zap: GitHub Stats</summary>
+
+
+<br/><br/><br/><br/><br/>
+
+<!-- <details>
+  <summary>:zap: GitHub Stats</summary> -->
+
+  ### :zap: GitHub Stats
 
   <img align="left" alt="AshrafQasem's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AshrafQasem&show_icons=true&hide_border=true" />
 
