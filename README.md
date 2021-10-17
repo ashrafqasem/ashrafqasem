@@ -68,6 +68,7 @@ Here are some ideas to get you started:
 [reactplaylist]:  -->
 
 
+<br\><br\>
 <details>
   <summary>:zap: GitHub Stats</summary>
 
