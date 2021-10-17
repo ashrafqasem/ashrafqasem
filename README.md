@@ -45,9 +45,9 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="Castle Windsor" width="50px" src="https://raw.githubusercontent.com/castleproject/Windsor/master/docs/images/windsor-logo.png" />][website]
 [<img align="left" alt="NLog" width="50px" src="https://avatars.githubusercontent.com/u/2331628?s=200&v=4" />][website]
-[<img align="left" alt="C#" width="50px" src="" />][website]
-[<img align="left" alt="C#" width="50px" src="" />][website]
-[<img align="left" alt="C#" width="50px" src="" />][website]
+[<img align="left" alt=".NET" width="50px" src="https://avatars.githubusercontent.com/u/9141961?s=200&v=4" />][website]
+[<img align="left" alt="Bootstrap" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />][website]
+[<img align="left" alt="JQuery" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />][website]
 [<img align="left" alt="C#" width="50px" src="" />][website]
 [<img align="left" alt="C#" width="50px" src="" />][website]
 [<img align="left" alt="C#" width="50px" src="" />][website]
