@@ -54,9 +54,13 @@ Here are some ideas to get you started:
 [<img align="left" alt="AppHarbor" width="50px" src="https://avatars.githubusercontent.com/u/482897?s=200&v=4" />][website]
 [<img align="left" alt="Heroku" width="50px" src="https://avatars.githubusercontent.com/u/23211?s=200&v=4" />][website]
 [<img align="left" alt="XML" width="50px" src="https://raw.githubusercontent.com/github/explore/05a6f4c574a32b6b2f04c2e589f6c82d9df46a5d/topics/xml/xml.png" />][website]
-[<img align="left" alt="C#" width="50px" src="" />][website]
-[<img align="left" alt="C#" width="50px" src="" />][website]
-[<img align="left" alt="C#" width="50px" src="" />][website]
+[<img align="left" alt="ASP.NET Core" width="50px" src="https://avatars.githubusercontent.com/u/6476660?s=200&v=4" />][website]
+[<img align="left" alt="JSON" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" />][website]
+
+[<img align="left" alt="" width="50px" src="" />][website]
+[<img align="left" alt="" width="50px" src="" />][website]
+[<img align="left" alt="" width="50px" src="" />][website]
+[<img align="left" alt="" width="50px" src="" />][website]
 
 
 
