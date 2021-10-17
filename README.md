@@ -66,3 +66,11 @@ Here are some ideas to get you started:
 [jsplaylist]: 
 [cssplaylist]: 
 [reactplaylist]:  -->
+
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="AshrafQasem's GitHub Stats" src="https://github-readme-stats.ashrafqasem.vercel.app/api?username=AshrafQasem&show_icons=true&hide_border=true" />
+
+</details>
