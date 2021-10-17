@@ -43,6 +43,18 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="C#" width="50px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />][website]
 
+[<img align="left" alt="Castle Windsor" width="50px" src="https://raw.githubusercontent.com/castleproject/Windsor/master/docs/images/windsor-logo.png" />][website]
+[<img align="left" alt="NLog" width="50px" src="https://avatars.githubusercontent.com/u/2331628?s=200&v=4" />][website]
+[<img align="left" alt="C#" width="50px" src="" />][website]
+[<img align="left" alt="C#" width="50px" src="" />][website]
+[<img align="left" alt="C#" width="50px" src="" />][website]
+[<img align="left" alt="C#" width="50px" src="" />][website]
+[<img align="left" alt="C#" width="50px" src="" />][website]
+[<img align="left" alt="C#" width="50px" src="" />][website]
+[<img align="left" alt="C#" width="50px" src="" />][website]
+[<img align="left" alt="C#" width="50px" src="" />][website]
+
+
 
 
 
@@ -75,6 +87,7 @@ Here are some ideas to get you started:
 [cssplaylist]: 
 [reactplaylist]:  -->
 
+---
 
 <br/><br/>
 <!-- <details> -->
