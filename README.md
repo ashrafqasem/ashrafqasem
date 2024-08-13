@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - Innovative OOP programmer offering experience in building N-tier web application from concept through delivery, including Front-End, Back-End, database design and the deployment to the web host.
 - Excellent troubleshooting skills able to analyze code and engineer well-researched, scalable solutions.
 
-[![Portfolio]([https://ashrafqasem.github.io/Portfolio/](https://ashrafqasem.netlify.app/))]
+[![Portfolio]([[https://ashrafqasem.netlify.app/](https://ashrafqasem.netlify.app/)](https://ashrafqasem.netlify.app/))]
 ### Connect with me:
 
 [<img align="left" alt="https://github.com/ashrafqasem/Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
